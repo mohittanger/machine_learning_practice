@@ -1,15 +1,14 @@
 # machine_learning_practice
 
 1. Simple Linear regression formula..
-
 Y= a + bX 
 
 where..
-Y – is the dependent variable
-X – is the independent (explanatory) variable
-a – is the intercept
-b – is the slope
-∈ – and is the residual (error)
+<br/> Y – is the dependent variable
+<br/> X – is the independent (explanatory) variable
+<br/> a – is the intercept
+<br/> b – is the slope
+<br/> ∈ – and is the residual (error)
 
 a= (Σy)(Σx2) - (Σx)(Σxy)/ n(Σx2) - (Σx)2
 
