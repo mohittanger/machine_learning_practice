@@ -1,9 +1,9 @@
 # machine_learning_practice
 
-1. Simple Linear regression formula..
+<h3> <b> Simple Linear regression formula.. </b> </h3>
 Y= a + bX 
 
-where..
+Where..
 <br/> Y – is the dependent variable
 <br/> X – is the independent (explanatory) variable
 <br/> a – is the intercept
